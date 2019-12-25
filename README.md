@@ -6,7 +6,7 @@
 `````````
 - To compile the program,(In ubuntu terminal)
 `````````````````````````
- ./fileName(The file name u have stored.)
+ ./fileName(The file name you have stored.)
 ````````````````````````````````````````
 - You'll get the out put like this(For hello world program):
 
