@@ -1,7 +1,8 @@
 
 - Please appologise me if there is mistake in the program
+- To open terminal in Ubuntu,
 `````````
-To open terminal in ubuntu, ctrl+alt+T.
+ ctrl+alt+T.
 `````````
 - To compile the program,(In ubuntu terminal)
 `````````````````````````
