@@ -7,3 +7,6 @@
 `````````
 To open terminal in ubuntu, ctrl+alt+T.
 `````````
+- To compile the program,
+`````````````````````````
+ ./fileName(The file name u have stored.)
