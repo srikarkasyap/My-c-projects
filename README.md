@@ -8,7 +8,7 @@
 `````````````````````````
  ./fileName(The file name you have stored.)
 ````````````````````````````````````````
-- You'll get the out put like this(For hello world program):
+- You'll get the out put like this(For "Hello World!" program):
 
 ```````````````
 Hello World!
