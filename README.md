@@ -9,6 +9,6 @@ To open terminal in ubuntu, ctrl+alt+T.
 ````````````````````````````````````````
 - You'll get the out put like this(For hello world program):
 
-`
+```````````````
 Hello World!
-`
+```````````````
