@@ -1,5 +1,5 @@
 - To run a program in terminal,
-- write the program in c(If you want torun in c)
+- write the program in c(If you want to run in c)
 - Save it.
 - And mention ".c" at end of the name of the file
 - These are the steps to run a program in c:
