@@ -1,5 +1,4 @@
 
-- Please appologise me if there is mistake in the program
 - To open terminal in Ubuntu,
 `````````
  ctrl+alt+T.
