@@ -5,6 +5,10 @@
  ctrl+alt+T.
 `````````
 - To compile the program,(In ubuntu terminal)
+``````````
+cc filename.c
+``````````
+- To run the the program,(In ubuntu terminal)
 `````````````````````````
  ./fileName(The file name you have stored.)
 ````````````````````````````````````````
