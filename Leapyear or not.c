@@ -15,6 +15,6 @@ int a;
 	printf("It's a leapyer");
 }
 	else{
-	printf("Enter a proper year");
+	printf("It's not a leapyear.");
 }
 }
