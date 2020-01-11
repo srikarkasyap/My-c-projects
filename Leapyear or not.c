@@ -9,7 +9,7 @@ int a;
 	printf("It's a leapyear");
 }
 	else if(a%100==0){
-	printf("It'a leapyear");
+	printf("It's a leapyear");
 }
 	else if(a%4==0){
 	printf("It's a leapyer");
