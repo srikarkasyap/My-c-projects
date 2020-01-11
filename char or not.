@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main(){
+char a;
+	printf("Enter a single char");
+	scanf("%c",&a);
+	
+	if(a>='A'||a<='Z'){
+
+	printf("It is a letter");
+}
+    else if(a>='a'||a<='Z')
+	{
+
+	printf("It is a letter");
+}
+	else{
+	printf("It is'nt a char");
+
+}
+}
