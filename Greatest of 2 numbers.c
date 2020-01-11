@@ -10,7 +10,7 @@ int a,b;
 	printf("%d is greater",b);	
 	
 }
-	else if(){
+	else if(a>b){
 	printf("%d is greater",a);
 }
 	else{
