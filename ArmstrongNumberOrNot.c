@@ -33,5 +33,6 @@ int k,b,g[50],c,d,y,x=0,z,q=0;
 
 	printf("It is'nt a armstrong number.\n");
 }
+	return 0;
 }
 
