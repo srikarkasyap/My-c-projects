@@ -13,7 +13,7 @@ cc filename.c
 ``````````
 - To run the the program,
 `````````````````````````
- ./fileName(The file name you have stored.)
+ ./a.out(The file name you have stored.)
 ````````````````````````````````````````
 - You'll get the out put like this(For "Hello World!" program):
 ```````````````
